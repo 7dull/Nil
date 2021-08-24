@@ -1,0 +1,28 @@
+QPushButton{
+    border-style: solid;
+	background-color:#26222A;
+}
+
+QPushButton::default{
+    border-style: solid;
+	background-color:#025154;
+}
+
+QPushButton:hover{
+    border-style: solid;
+	background-color:#04656B;
+}
+
+QPushButton:pressed{
+    border-style: solid;
+	background-color:#16556D;
+}
+
+QToolTip {
+    background-color:#26222A;
+    border-radius:3px;
+	font: bold normal 15px "Microsoft YaHei";
+	color: #FFFFFF;
+}
+
+#7dull_

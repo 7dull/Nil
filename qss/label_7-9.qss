@@ -1,0 +1,26 @@
+QLabel{
+	color: #C8FFFFFF;
+	border-radius:3px;
+	font: bold normal 15px "Microsoft YaHei";
+}
+
+QLabel::default{
+	color: #C8FFFFFF;
+	border-radius:3px;
+	font: bold normal 15px "Microsoft YaHei";
+}
+
+QLabel::hover{
+	color: #FFFFFF;
+	border-radius:3px;
+	font: bold normal 15px "Microsoft YaHei";
+}
+
+QToolTip {
+    background-color: #26222A;
+    border-radius:3px;
+	font: bold normal 15px "Microsoft YaHei";
+	color: #FFFFFF;
+}
+
+#7dull_
